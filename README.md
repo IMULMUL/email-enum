@@ -67,5 +67,5 @@ Results `python check.py somebody@example.com --pwndb`
 ## Disclaimer
 
 The use of the email-enum is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program.
-Email-enum is done entirely via web scraping, if a website changes its element variables or layout, you might need to 
+Email-Enum is done entirely via web scraping, if a website changes its element variables or layout, you might need to 
 wait for an updated version of Email-Enum or feel free to contribute.
