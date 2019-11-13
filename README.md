@@ -7,6 +7,8 @@
 
 **Email-Enum searches mainstream websites and tells you if an email is registered!**
 
+## ⚠️ DEPRECATED ⚠️
+
 ![Demo Photo](https://raw.githubusercontent.com/Frint0/email-enum/master/demo.png)
 
 ## Dependencies
