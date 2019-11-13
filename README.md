@@ -1,6 +1,6 @@
 # Email-Enum
 [![Version](https://img.shields.io/badge/Version-v1.2-brightgreen.svg)](https://shields.io/)
-[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)](https://shields.io/)
+[![Status](https://img.shields.io/badge/Status-Deprecated-red.svg)](https://shields.io/)
 [![Platform](https://img.shields.io/badge/Platform-Linux/Windows-lightgrey.svg)](https://shields.io/)
 [![Browser](https://img.shields.io/badge/Browser-Firefox-brightgreen.svg)](https://shields.io/)
 [![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
@@ -38,18 +38,6 @@ docker run --rm -it emailenum <target email>
 ## Usage
 
 `python3 check.py email@gmail.com` or `./check.py email@gmail.com`
-
-## To-Do's
-
-* More Websites
-* Username Enumeration
-* Increased Verbosity
-* ~~More arguments~~
-* ~~Non-Headless mode~~
-* ~~Integrate automatically checking via pwndb~~
-* Add support for Socks proxy
-
-*and much more...*
 
 ## Proxy
 The option `--proxy` uses [Proxybroker](https://github.com/constverum/ProxyBroker) which will run a local proxy server on port 8888 and request 5 HTTPS proxies. You don't need to search for public proxies, everything is done automatically. Note that proxies are public.
